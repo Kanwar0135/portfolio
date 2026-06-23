@@ -1,0 +1,30 @@
+ANMOL KANWAR
+Calgary, AB | kanwar05.anmol@gmail.com | +1 825 760 4385 | github.com/Kanwar0135 | linkedin.com/in/anmol-kanwar-9904662b9
+PROFESSIONAL SUMMARY
+Software Development diploma student at Southern Alberta Institute of Technology with hands-on experience building web, database, and cloud-based applications. Skilled in JavaScript, React, SQL, GitHub, Agile development, and backend-related functionality. Seeking an entry-level software developer, web developer, or IT internship role where I can apply technical skills, problem-solving ability, and project experience.
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Java, Python, SQL, HTML, CSS
+Frameworks and Libraries: React, Flask, Tailwind CSS
+Databases: Oracle SQL, PL/SQL, MySQL
+Tools and Platforms: Git, GitHub, Docker, Microsoft Azure, VS Code, Postman
+Concepts: REST APIs, Object-Oriented Programming, Agile Development, Software Testing, Responsive Web Design
+PROJECTS
+Gerry's Docks Website - Capstone Project
+React, JavaScript, Database, GitHub, Agile Development
+•	Developed a professional website for Gerry's Docks to help customers view docks, ramps, accessories, and product information in one place.
+•	Worked on backend-related functionality to support product information, quote requests, and customer inquiries.
+•	Collaborated with a team using Agile sprints, GitHub, and assigned project roles to organize development tasks.
+•	Helped design a user-friendly system where customers can select dock options and accessories to begin a quote request.
+•	Focused on building a practical business website that supports customer communication and easy future updates.
+WORK EXPERIENCE
+Asset Protection Associate - Walmart
+10 High Plains Trail - Calgary, AB | 2026 - Present
+•	Monitor store activity to help prevent loss and maintain a safe shopping environment.
+•	Communicate professionally with customers, team members, and management.
+•	Follow company policies and procedures while handling sensitive situations.
+•	Use observation, attention to detail, and problem-solving skills in a fast-paced environment.
+•	Prepare reports and document incidents accurately when required.
+EDUCATION
+Software Development Diploma
+Southern Alberta Institute of Technology - Calgary, AB | Expected Graduation:  Aug 2026
+Relevant coursework: Web Development, Database Management, Object-Oriented Programming, Cloud Computing, Software Testing, and Systems Analysis.
